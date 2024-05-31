@@ -1,6 +1,9 @@
 Hakan Şal   181906103
+
 Mehmet Fatih Kuru   213405048
+
 Serdar Yaracıer   213405074
+
 Fatih Kahraman  213405037
 
 
